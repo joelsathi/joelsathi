@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![@joelsathi's Holopin board](https://holopin.me/joelsathi)](https://holopin.io/@joelsathi)
 
+<img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 - 🔭 I’m interested in Problem solving and developing algorithms
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Web Development, AI and Machine learning
