@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: joelsathiyendra@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't sleep if I couldn't finish a project
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelsathi&theme=dark&show_icons=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsathi&theme=dark&layout=compact" />
+</a>
