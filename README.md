@@ -1,6 +1,12 @@
-### Hi there 👋
 
-<!--
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Joel+!;Nice+to+meet+you+👋&center=true&size=30">
+  </a>
+</h1>
+
+<!---
+
 **joelsathi/joelsathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,8 +33,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't sleep if I can't finish a project
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelsathi&theme=dark&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsathi&theme=dark&layout=compact" />
-</a>
+<p>
+<h3>🔥 Streak Stats</h3>
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p>
+  <a href="https://github.com/joelsathi/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JoelSathi's streak" src="https://streak-stats.demolab.com/?user=joelsathi&theme=monokai-metallian&hide_border=true"/>
+  </a>
+<!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JoelSathi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joelsathi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JoelSathi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsathi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JoelSathi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joelsathi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+
